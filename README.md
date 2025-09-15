@@ -82,9 +82,12 @@ HR-Attrition-Prediction/
 │
 ├── relation/ # Feature relationship analysis
 
-│   ├── relation_with_attrition.py
-│
+│ ├── relation_with_attrition.py
+
+│ 
+
 ├── README.md # Project documentation
+
 
 └── requirements.txt # Python dependencies
 
