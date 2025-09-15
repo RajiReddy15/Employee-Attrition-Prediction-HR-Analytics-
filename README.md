@@ -62,26 +62,27 @@ Models were compared based on Accuracy, Precision, Recall, F1-Score, and ROC-AUC
 
 HR-Attrition-Prediction/
 │
+
 ├── data/ # Data files (raw & modified)
 
-│ ├── employee_attrition.csv
+│     ├── employee_attrition.csv
 
-│ ├── cleaned_data.csv
+│     ├── cleaned_data.csv
 
 │
 ├── scripts/ # Scripts for project workflow
 
-│ ├── datacollection.py
+│   ├── datacollection.py
 
-│ ├── datacleaning.py
+│   ├── datacleaning.py
 
-│ ├── eda.py
+│   ├── eda.py
 
-│ ├── model.py
+│   ├── model.py
 │
 ├── relation/ # Feature relationship analysis
 
-│ ├── relation_with_attrition.py
+│   ├── relation_with_attrition.py
 │
 ├── README.md # Project documentation
 
